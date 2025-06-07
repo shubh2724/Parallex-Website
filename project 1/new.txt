@@ -1,3 +1,13 @@
+git init
+git add .
+git commit -m "Initial commit"
+
+git remote set-url origin https://github.com/shubh2724/parallex-website.git
+git remote set-url origin https://github.com/shubh2724/parallex-website.git
+git push -u origin main
+git branch
+git push -u origin master
+
 *{
     margin: 0;
     padding: 0;
